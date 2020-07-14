@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713286808917",
+    "firebase_url": "https://shinobicoders-36c95.firebaseio.com",
+    "project_id": "shinobicoders-36c95",
+    "storage_bucket": "shinobicoders-36c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713286808917:android:d74089cba72e35b5cfabdc",
+        "android_client_info": {
+          "package_name": "com.example.shinobi_coders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713286808917-a794f7ufpmab2quh41vms9lu97asimoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shinobi_coders",
+            "certificate_hash": "2543aa38c1c428d003f0f2836ed49ede25fffbab"
+          }
+        },
+        {
+          "client_id": "713286808917-p2o02lvophlkbhtqre573c3b3t5fccen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ87M7KE5_TS4vGKrk8XhUbSK_pQMr1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713286808917-p2o02lvophlkbhtqre573c3b3t5fccen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
